@@ -6,5 +6,3 @@ Daily Chronicles is a static news website designed to deliver timely and relevan
 
 
 This news web page was created by me as part of my P3 second semester project during my first year. The objective of the project was to build a static website using only HTML and CSS, which is why there is minimal JavaScript used. The main goal of this project is to connect with people and keep them informed about current events and what’s happening around us.
-
-P.S. This project was created entirely by a freshman who’s just starting out in web development—so please, bare with me and go easy with the critiques. ✌
